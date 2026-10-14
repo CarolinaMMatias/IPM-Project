@@ -1,4 +1,4 @@
-# Dense UI Target Selection — Bake-off #2 (HCI)
+# Dense UI Target Selection (HCI)
 
 Project developed for the **Interação Pessoa-Máquina** (Human-Computer Interaction) course at **Instituto Superior Técnico (IST)**.
 
